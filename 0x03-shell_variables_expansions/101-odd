@@ -1,0 +1,2 @@
+#!/bin/bash
+n1 | cut -b 6- | grep '^[13479] | cut -f2
