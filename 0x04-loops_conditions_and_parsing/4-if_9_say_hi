@@ -7,7 +7,7 @@ do
   then
     echo "Hi"
   else
-    echo "Best School"
-    fi
+      echo "Best School"
+  fi
   x=$(( x + 1 ))
 done
